@@ -1,0 +1,4 @@
+2026-11-20 19:34:43 | https://www.onet.pl/ | OK (200)
+2026-11-20 19:34:43 | http://www.onet.pl | OK (200)
+2026-11-20 19:34:43 | http://www.google.com | OK (200)
+2026-11-20 19:34:44 | http://www.niedzialajacyserwer.pl | OFFLINE (wyczerpano limit prób)
